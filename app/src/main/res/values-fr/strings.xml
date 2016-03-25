@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SignalInfoWidget</string>
+    <string name="in">Réception</string>
+    <string name="inactive">Inactif</string>
+    <string name="inout">Réception/Envoi</string>
+    <string name="out">Envoi</string>
+    <string name="turnedoff">Éteint</string>
+    <string name="unk">Inconnu</string>
+</resources>

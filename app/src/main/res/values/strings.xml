@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SignalInfoWidget</string>
+    <string name="in">Download</string>
+    <string name="inactive">Inactive</string>
+    <string name="inout">Download/Upload</string>
+    <string name="out">Upload</string>
+    <string name="turnedoff">Turned off</string>
+    <string name="unk">Unknown</string>
+</resources>
